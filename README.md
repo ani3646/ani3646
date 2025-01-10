@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
+<h1 align="center">Hi 👋, I'm Ankit Dixit</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak03dot&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak03dot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ani3646&label=Profile%20views&color=0e75b6&style=flat" alt="ani3646" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak03dot" alt="sarthak03dot" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ani3646" alt="ani3646" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sarthak03dot](https://linktr.ee/sarthak03dot)
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarthak03dot" height="30" width="40" /></a>
+<a href="https://dev.to/ani3646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ani3646" height="30" width="40" /></a>
 <a href="https://twitter.com/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak03dot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak03dot" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak03dot" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ani3646" height="30" width="40" /></a>
+<a href="https://instagram.com/__4nkit__24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ani3646" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak03dot" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sarthakankshawebjvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarthakankshawebjvb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarthak03dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak03dot" height="30" width="40" /></a>
